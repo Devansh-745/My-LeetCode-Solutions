@@ -1,42 +1,32 @@
 class Solution {
 public:
-    //using DFS
-    bool dfs(int node, vector<bool>& vis, vector<bool>& pathvis, vector<int>& count, vector<vector<int>>& graph){
-        vis[node]=true;
-        pathvis[node]=true;
-
-        for(auto it : graph[node]){
-            if(!vis[it]){
-                if(dfs(it, vis, pathvis, count, graph)==true){
-                    // count[node]=0;
-                    return true;
-                }
-            }
-            else if(vis[it] && pathvis[it]){
-                // count[node]=0;
-                return true;
-            }
-        }
-        count[node]=1; //means its a safe node as no cycle has been detected
-        pathvis[node]=false; //reset path
-        return false; //no cycle detected
-    }
-    //dfs returning true means detection of cycle
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n= graph.size();
-        vector<bool> vis(n, false);
-        vector<bool> pathvis(n, false); 
-        vector<int> count(n, 0); // to keep track of safe nodes
-
+        vector<int> revadj[n]; 
+        vector<int> indegree(n); //all this to reverse the edges to apply KAHN'S algorithm
         for(int i=0; i<n; i++){
-            if(!vis[i]){
-                dfs(i, vis, pathvis, count, graph);
+            for(auto it : graph[i]){
+                revadj[it].push_back(i);
+                indegree[i]++; //it->i
             }
         }
-        vector<int> ans; 
+        //so the nodes which had outdegrees as 0 now have their indegrees to be 0
+        //essentially we are backtracking from the terminal nodes to get all the safe nodes
+        queue<int> q;
         for(int i=0; i<n; i++){
-            if(count[i]==1) ans.push_back(i);
-        } // this way it is automatically sorted
-        return ans;      
+            if(indegree[i]==0) q.push(i);
+        }
+        vector<int>ans;
+        while(!q.empty()){
+            int node= q.front();
+            q.pop();
+            ans.push_back(node);
+            for(auto it : revadj[node]){
+                indegree[it]--;
+                if(indegree[it]==0) q.push(it);
+            }
+        }
+        sort(ans.begin(), ans.end());
+        return ans;
     }
 };

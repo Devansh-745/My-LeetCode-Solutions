@@ -65,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
+## String
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->

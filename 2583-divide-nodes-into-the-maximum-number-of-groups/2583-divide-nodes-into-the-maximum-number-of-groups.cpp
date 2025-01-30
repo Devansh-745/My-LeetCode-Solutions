@@ -8,7 +8,7 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-        vector<int> store(n);
+        vector<int> store(n); //we need to keep track of results from each component which are not neccessarily connected
         for(int i=0; i<n; i++){
             queue<int> q;
             q.push(i);
@@ -21,17 +21,17 @@ public:
                 q.pop();
                 root=min(root, cur);
                 for(auto it : adj[cur]){
-                    if(dist[it]==0){
-                        dist[it]=dist[cur]+1;
-                        maxx=max(maxx, dist[it]);
+                    if(dist[it]==0){ //if hasnt been visited yet
+                        dist[it]=dist[cur]+1; //stores depth
+                        maxx=max(maxx, dist[it]); //stores max depth ever encountered during this traversal
                         q.push(it);
                     } 
-                    else if(abs(dist[cur]-dist[it]) != 1){
-                        return -1;
+                    else if(abs(dist[cur]-dist[it]) != 1){//graph not bipartite
+                        return -1; //odd length cycle detected
                     }
                 }
             }
-            store[root] = max(store[root], maxx);
+            store[root] = max(store[root], maxx); //updates maximum depth for the particualar component
         }
         return accumulate(store.begin(), store.end(), 0);
     }

@@ -106,9 +106,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2434-design-a-number-container-system](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
 |  |
 | ------- |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->

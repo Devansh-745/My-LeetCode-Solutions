@@ -1,26 +1,12 @@
 class Solution {
 public:
-    bool checker(vector<int>& powers, int n, int i, int &cursum){
-        if(cursum==n){
-            return true;
-        }
-        if(i>=powers.size()){
-            return false;
-        }
-        cursum+=powers[i];
-        if(checker(powers, n, i+1, cursum)) return true;
-        cursum-=powers[i];
-        if(checker(powers, n, i+1, cursum)) return true;
-        return false;
-    }
     bool checkPowersOfThree(int n) {
-        vector<int> powers;
-        int i=0;
-        while(pow(3, i)<=n){
-            powers.push_back(pow(3, i));
-            i++;
+        while(n>0){
+            if(n%3==2){
+                return false;
+            }
+            n/=3;
         }
-        int cursum=0;
-        return checker(powers, n, 0, cursum);
+        return true;
     }
 };

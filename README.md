@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
 ## Depth-First Search
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Design
 |  |
 | ------- |

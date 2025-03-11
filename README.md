@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
+| [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
+| [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -236,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

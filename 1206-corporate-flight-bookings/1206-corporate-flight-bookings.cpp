@@ -8,7 +8,7 @@ public:
             int delta=bookings[i][2];
             
             diff[start-1]+=delta;
-            if(end<n) diff[end]-=delta;
+            if(end<n) diff[end]-=delta; //converted to 1-based indexing
         }
         int cumsum=0;
         for(int i=0; i<n; i++){

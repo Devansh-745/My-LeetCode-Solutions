@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |

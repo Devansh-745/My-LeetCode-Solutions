@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Counting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Ordered Set
 |  |
@@ -307,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0135-candy) |
+| [0238-product-of-array-except-self](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0275-h-index-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1206-corporate-flight-bookings](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |

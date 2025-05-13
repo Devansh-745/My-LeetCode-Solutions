@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0134-gas-station) |
@@ -284,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0274-h-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0135-candy) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0289-game-of-life](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0289-game-of-life](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |

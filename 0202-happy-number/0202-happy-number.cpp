@@ -10,7 +10,6 @@ public:
         return sum;
     }
     bool isHappy(int n) {
-        if(n==1 || n==7) return true;
         unordered_set<int> store;
         int sum=getsum(n);
         store.insert(sum);

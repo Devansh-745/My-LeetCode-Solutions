@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0274-h-index) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0290-word-pattern) |

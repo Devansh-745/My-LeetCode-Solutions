@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0134-gas-station) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |

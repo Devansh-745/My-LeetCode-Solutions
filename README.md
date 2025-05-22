@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -438,4 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

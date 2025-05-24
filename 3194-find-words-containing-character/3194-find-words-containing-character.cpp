@@ -5,11 +5,8 @@ public:
         vector<int> ans;
         for(int i=0; i<n; i++){
             string cur=words[i];
-            for(int j=0; j<cur.length(); j++){
-                if(cur[j]==x){
-                    ans.push_back(i);
-                    break;
-                }
+            if(cur.find(x)!=string::npos){
+                ans.push_back(i);
             }
         }
         return ans;

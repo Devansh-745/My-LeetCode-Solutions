@@ -1,40 +1,27 @@
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
-        const vector<string> specialCase = {
-            "oo","vv","uu","gg","pp","ff","ss","yy","vv","cc","rr","ig","jj","uu","ig",
-            "gb","zz","xx","ff","bb","ii","dd","ii","ee","mm","qq","ig","ww","ss","tt",
-            "vv","oo","ww","ss","bi","ff","gg","bi","jj","ee","gb","qq","bg","nn","vv",
-            "oo","bb","pp","ww","qq","mm","ee","tt","hh","ss","tt","ee","gi","ig","uu",
-            "ff","zz","ii","ff","ss","gi","yy","gb","mm","pp","uu","kk","jj","ee"
-        };
-        
-        if (words == specialCase) {
-            return 102;
+        unordered_map<string, int> freq;
+        for (const string& word : words) {
+            freq[word]++;
         }
-        int n=words.size();
-        unordered_map<string, int> mpp;
-        for(int i=0; i<n; i++){
-            mpp[words[i]]++;
-        }
-        int pals=0;  
-        int reps=0;  
-        for(auto it : mpp){
-            string rev = it.first;
+
+        int pairs = 0;
+        bool has_middle = false;
+
+        for (auto& [word, count] : freq) {
+            string rev = word;
             reverse(rev.begin(), rev.end());
 
-            if(it.first == rev){
-                pals+=it.second/2; //rest in ends
-                if(it.second%2==1){
-                    reps=1; //one in middle
-                }
+            if (word == rev) {
+                pairs += count / 2;  // Pairs of "oo", "vv", etc.
+                if (count % 2 == 1) has_middle = true;
             } 
-            else if(it.first<rev){  //avoid double counting (take lexicographically)
-                int pairs=min(it.second, mpp[rev]);
-                pals+=pairs;
+            else if (word < rev && freq.count(rev)) {  // Avoid double-counting
+                pairs += min(count, freq[rev]);  // Pairs like "ab"+"ba"
             }
         }
 
-        return 4*pals + (reps > 0 ? 2 : 0); //middle can have only 2 letters no matter what
+        return 4 * pairs + (has_middle ? 2 : 0);
     }
 };

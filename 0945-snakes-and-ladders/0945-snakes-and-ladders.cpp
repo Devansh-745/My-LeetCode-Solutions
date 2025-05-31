@@ -1,52 +1,42 @@
 class Solution {
 public:
-    pair<int, int> getCoordinates(int cellNumber, int boardSize) {
-        int colIndex = (cellNumber - 1) % boardSize;
-        int rowIndex = (cellNumber - 1) / boardSize;
-        int actualCol;
-        if (rowIndex % 2 == 0) {
-            actualCol = colIndex;
-        } else {
-            actualCol = boardSize - colIndex - 1;
-        }
-        return make_pair(boardSize - rowIndex - 1, actualCol);
+    //important function
+    pair<int, int> getcoords(int cellnum, vector<vector<int>>& board, int n){
+        int row=(cellnum-1)/n;
+        int col=(cellnum-1)%n;
+        int colact;
+        if(row%2==0) colact=col;
+        else colact=n-col-1;
+        return {n-row-1, colact};
     }
-
     int snakesAndLadders(vector<vector<int>>& board) {
-        int boardSize = board.size();
-        vector<bool> visited(boardSize * boardSize + 1, false);
+        int n=board.size();
+        vector<bool> visit(n*n+1, false);
+        queue<pair<int, int>> q; //position, stepcount
+        q.push({1, 0});
+        visit[1]=true;
 
-        queue<pair<int, int>> bfsQueue;
-        bfsQueue.push(make_pair(1, 0)); 
-        visited[1] = true;
+        while(!q.empty()){
+            int cur=q.front().first;
+            int count=q.front().second;
+            q.pop();
+            if(cur==n*n) return count;
+            for(int i=1; i<=6; i++){
+                int next=cur+i;
+                if(next>n*n) break;
 
-        while (!bfsQueue.empty()) {
-            pair<int, int> current = bfsQueue.front();
-            bfsQueue.pop();
-
-            int cellNumber = current.first;
-            int moveCount = current.second;
-
-            if (cellNumber == boardSize * boardSize)
-                return moveCount;
-
-            for (int diceRoll = 1; diceRoll <= 6; diceRoll++) {
-                int nextCell = cellNumber + diceRoll;
-                if (nextCell > boardSize * boardSize)
-                    break;
-
-                pair<int, int> coordinates = getCoordinates(nextCell, boardSize);
-                int row = coordinates.first;
-                int col = coordinates.second;
-
-                int destination = board[row][col] == -1 ? nextCell : board[row][col];
-                if (!visited[destination]) {
-                    bfsQueue.push(make_pair(destination, moveCount + 1));
-                    visited[destination] = true;
+                pair<int, int> coords= getcoords(next, board, n);
+                int r=coords.first;
+                int c=coords.second;
+                int dest;
+                if(board[r][c]==-1) dest=next;
+                else dest=board[r][c];
+                if(!visit[dest]){
+                    q.push({dest, count+1});
+                    visit[dest]=true;
                 }
             }
         }
-
-        return -1;
+        return -1; //not possible to reach 
     }
 };

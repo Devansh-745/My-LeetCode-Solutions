@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0202-happy-number) |
+| [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -504,5 +506,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

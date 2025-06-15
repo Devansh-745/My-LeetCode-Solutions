@@ -9,14 +9,14 @@ public:
             int fy=cells[i][1]-1;
             grid[fx][fy]=1; //flood
         }
-        bool flag=false;
-        for(int i=0; i<col; i++){
-            if(grid[row-1][i]==0){
-                flag=true;
-                break;
-            }
-        }
-        if(flag==false) return false; //last row is flooded 
+        // bool flag=false;
+        // for(int i=0; i<col; i++){
+        //     if(grid[row-1][i]==0){
+        //         flag=true;
+        //         break;
+        //     }
+        // }
+        // if(flag==false) return false; //last row is flooded 
         for(int i=0; i<col; i++){
             if(grid[0][i]==0){
                 vector<vector<bool>> visit(row, vector<bool>(col, false));

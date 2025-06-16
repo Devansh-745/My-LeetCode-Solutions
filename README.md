@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Enumeration
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |

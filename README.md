@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Data Stream
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3643-zero-array-transformation-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |

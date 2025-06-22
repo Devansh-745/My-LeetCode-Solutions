@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

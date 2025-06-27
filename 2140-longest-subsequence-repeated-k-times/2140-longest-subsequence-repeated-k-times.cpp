@@ -1,5 +1,21 @@
 class Solution {
 public:
+    //THOUGHT PROCESS---
+    /*
+    
+    1. first remove all the characters whose frequency is less than k and create a new string "newstring", devoid of them.
+    2. next, store the required freq of each eligible character in a vector (denotes the max. number of times these chars 
+       can occur in the subsequence) + find the maxlen which is the max. length possible, which will create a threshold 
+       ie. our subsequence cannot literally be longer than this value.
+    3. now, we will run a backtracking algo to give us all possible subsequences using the characters we just filtered.
+        we will run this algo for each length starting from longest maxlen to be more efficient.
+    4. then, once we generate a possible subsequence we will check whether it can actually satisfy the condition ie. 
+        check whether "k-times appended string" actually is a subsequence of the "newstring".
+    5. if yes, then we store our answer in result, if not then we try again with some other combination or a smaller 
+       length.
+
+
+    */
     bool subsequencechecker(string&s, string cur, int k, int m){
         int i=0;
         int j=0;

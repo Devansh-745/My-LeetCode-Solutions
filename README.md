@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2591-frog-jump-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2690-house-robber-iv) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2591-frog-jump-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2591-frog-jump-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2690-house-robber-iv) |

@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack

@@ -12,7 +12,17 @@ public:
 
     int rob(vector<int>& nums) {
         int n= nums.size();
-        vector<int>dp(n+1, -1);
-        return memoiz(nums, 0, dp, n);
+        vector<int>dp(n+1, 0);
+        // return memoiz(nums, 0, dp, n);
+        int frontone=nums[n-1];
+        int fronttwo=0;
+        for(int i=n-2; i>=0; i--){
+            int pick=nums[i]+fronttwo;
+            int notpick=frontone;
+            int cur=max(pick, notpick);
+            fronttwo=frontone;
+            frontone=cur;
+        }
+        return frontone;
     }
 };

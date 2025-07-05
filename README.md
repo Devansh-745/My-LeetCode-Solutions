@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |

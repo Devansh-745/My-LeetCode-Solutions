@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1511-count-number-of-teams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1511-count-number-of-teams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Bitmask
 |  |

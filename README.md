@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |

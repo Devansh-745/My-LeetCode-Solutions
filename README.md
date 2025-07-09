@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |

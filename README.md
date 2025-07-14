@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
 |  |
 | ------- |

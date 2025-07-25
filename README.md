@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3721-count-mentions-per-user) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Enumeration
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0403-frog-jump) |

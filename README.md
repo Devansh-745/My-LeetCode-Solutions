@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |

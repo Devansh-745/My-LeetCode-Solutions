@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |

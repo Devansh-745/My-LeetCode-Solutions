@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -663,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |

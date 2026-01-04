@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Devansh-745/My-Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Devansh-745/My-LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
